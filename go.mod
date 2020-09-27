@@ -1,4 +1,4 @@
-module git.fogcdn.top/tcgroup/tool
+module github.com/lutancheng/tool
 
 go 1.14
 
